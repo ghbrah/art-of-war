@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Styles if needed, though Tailwind covers most */
+body {
+  background-color: #1c1917; /* stone-900 fallback */
+  color: #e7e5e4; /* stone-200 fallback */
+}
